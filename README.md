@@ -1,2 +1,2 @@
 # Jajle.github.io
- RecipePage
+ Frontendmentor.io Recipe Page challenge
